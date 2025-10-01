@@ -71,9 +71,3 @@ kagglehub        # para baixar dataset de exemplo (casas em Ponta Grossa/PR)
 - **MSE** (Erro Quadrático Médio)
 - **RMSE** (Raiz do Erro Quadrático Médio)
 - **R²** (Coeficiente de Determinação)
-
-## Autor
-- Adriano Rigonato — mini-curso no CONCCEPAR
-
----
-Se algo não rodar, verifique versões das libs e caminhos dos arquivos. Abra uma *issue* no GitHub com o erro completo.
